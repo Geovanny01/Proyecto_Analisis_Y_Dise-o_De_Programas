@@ -1,1 +1,1 @@
-# Proyecto_Analisis_Y_Dise-o_De_Programas
+# Proyecto_Analisis_De_Programas
